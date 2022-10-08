@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100">
+    <rect 
+        x="10" y="10"
+        class="awesome-square"
+        width="20%" height="20"
+        fill="red" stroke="Lime"/>
+    <rect
+        x="40" y="10"
+        class="awesome-square"
+        width="20%" height="20"
+        fill="blue" stroke="#740cfc"/>
+    <circle 
+        r="20" 
+        cx="35"
+        cy="55"
+        stroke="gainsboro"/>
+</svg>
